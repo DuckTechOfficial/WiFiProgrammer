@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For WiFiProgrammer
+#######################################
+
+# Datatypes (KEYWORD1)
+WiFiProgrammer	KEYWORD1
+WiFiProgrammerClass	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+handle	KEYWORD2
+stop	KEYWORD2
+onStart	KEYWORD2
+onProgress	KEYWORD2
+onSuccess	KEYWORD2
+onError	KEYWORD2
+setStatusLed	KEYWORD2
+setDebug	KEYWORD2
+isUpdating	KEYWORD2
+progress	KEYWORD2
+lastError	KEYWORD2
+ip	KEYWORD2
+ssid	KEYWORD2
+version	KEYWORD2
+
+# Constants (LITERAL1)
+WIFIPROGRAMMER_VERSION	LITERAL1
+WP_DEFAULT_SSID	LITERAL1
+WP_DEFAULT_PASS	LITERAL1
+WP_DEFAULT_KEY	LITERAL1
